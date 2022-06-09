@@ -7,12 +7,12 @@ Quando o revendedor atende o "desejos de compras", o mesmo entrará em  contato 
 
 A ideia é a revendedora entregar rapidamente para alguém perto de sua casa, que esteja querendo comprar o produto X e ela tem em estoque aquele produto.
 
-entrega prevista:
-*aplicação web(responsiva) de entrada de "desejos de compras"
-*aplicação web(responsiva) para revendedores verificar "desejos de compras" para poder atender
-*serviço (API) que gerencie solicitações, estoque de revendedores e mais. 
+# entrega prevista:
+- aplicação web(responsiva) de entrada de "desejos de compras"
+- aplicação web(responsiva) para revendedores verificar "desejos de compras" para poder atender
+- serviço (API) que gerencie solicitações, estoque de revendedores e mais. 
 
-Informações que poderemos extrair:
-*Levantar tempo médio atendimento, por região
-*Levantar região com demanda não atendida,
+# Informações que poderemos extrair:
+- Levantar tempo médio atendimento, por região
+- Levantar região com demanda não atendida,
 
